@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import SearchForm from '../components/SearchForm';
-import Popular from '../components/Collection';
+import Popular from '../components/movieList/Popular'
 
 const search = () => {
     return (
